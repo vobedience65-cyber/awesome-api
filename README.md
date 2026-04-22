@@ -2,6 +2,12 @@
 
 > A curated list of awesome resources for design and implement RESTful APIs.
 
+
+### AI Text Analysis
+
+* [Obedience Text API](https://theoxicew-obedience-text-api.hf.space) - Free AI text analysis API for summarization, sentiment analysis, keyword extraction, and content cleaning. Perfect for developers building content analysis tools.
+
+
 ## Design
 
 ### Overview
