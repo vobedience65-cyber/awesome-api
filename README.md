@@ -230,3 +230,14 @@
 - **HTTPS**: Yes
 - **CORS**: Unknown
 - **Repo**: https://github.com/vobedience65-cyber/free-ai-text-api
+
+
+## AI Text Analysis API
+
+- **Name**: Obedience AI Text Analysis API
+- **Description**: Free API for text analysis including summarization, sentiment analysis, keyword extraction, translation, and text cleaning
+- **URL**: https://theoxicew-obedience-text-api.hf.space
+- **Category**: AI/ML
+- **Auth**: None
+- **HTTPS**: Yes
+- **CORS**: Yes
