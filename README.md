@@ -198,3 +198,12 @@
 ## AI Text Processing
 
 * [Obedience AI Text API](https://theoxicew-obedience-text-api.hf.space) - AI-powered text summarization, sentiment analysis, keyword extraction, translation and cleaning. Built with FastAPI and hosted on Hugging Face Space.
+
+
+
+## AI Text Analysis API
+- **Description**: Free API for text summarization, sentiment analysis, keyword extraction, and translation
+- **URL**: https://theoxicew-obedience-text-api.hf.space
+- **Category**: Text Processing
+- **Auth**: None
+- **HTTPS**: Yes
