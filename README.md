@@ -187,3 +187,8 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
+
+## AI Text Processing
+
+* [Obedience AI Text API](https://theoxicew-obedience-text-api.hf.space) - AI-powered text summarization, sentiment analysis, keyword extraction, translation and cleaning. Built with FastAPI and hosted on Hugging Face Space.
