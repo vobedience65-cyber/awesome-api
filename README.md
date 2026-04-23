@@ -8,6 +8,21 @@
 * [Obedience Text API](https://theoxicew-obedience-text-api.hf.space) - Free AI text analysis API for summarization, sentiment analysis, keyword extraction, and content cleaning. Perfect for developers building content analysis tools.
 
 
+
+
+
+### Free AI Text API
+- **Description**: Free AI Text API for text analysis, summarization, sentiment analysis, keyword extraction, and text cleaning
+- **URL**: https://theoxicew-obedience-text-api.hf.space
+- **Category**: AI
+- **Features**: 
+  - POST /summarize - Text summarization
+  - POST /sentiment - Sentiment analysis  
+  - POST /keywords - Keyword extraction
+  - POST /translate - Text translation
+  - POST /clean - Text cleaning
+- **Auth**: No authentication required
+- **Pricing**: Free tier available
 ## Design
 
 ### Overview
