@@ -241,3 +241,5 @@
 - **Auth**: None
 - **HTTPS**: Yes
 - **CORS**: Yes
+
+- https://theoxicew-obedience-text-api.hf.space – Free AI Text API (summarize, sentiment, keywords, translate, clean)
