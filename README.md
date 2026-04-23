@@ -241,3 +241,8 @@
 - **Auth**: None
 - **HTTPS**: Yes
 - **CORS**: Yes
+
+## Obedience AI Text Analysis API
+- Name: Obedience AI Text Analysis API
+- Description: Free API for text analysis (summarize, sentiment, keywords, translation, cleaning)
+- URL: https://theoxicew-obedience-text-api.hf.space
